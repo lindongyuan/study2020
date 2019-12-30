@@ -1,0 +1,6 @@
+In Python you can variable
+In Python you can List
+In Python you can Tuple
+In Python you can cycle
+In Python you can dictionary
+In Python you can function
