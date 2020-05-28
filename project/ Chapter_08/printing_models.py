@@ -1,3 +1,4 @@
+#making_print_models调用
 def print_modles(unprinted_designs,completed_models):
     '''模拟打印每个设计，直至所有列表内元素完成
     并将其移至completed_models中'''
@@ -13,9 +14,3 @@ def show_completed_models(completed_models):
     for completed_model in completed_models:
         print(completed_model)
 
-unprinted_designs = ['iphone case','robot pendant','dodecahedron']
-completed_models = []
-
-print_modles(unprinted_designs,completed_models)
-show_completed_models(completed_models)
-print(unprinted_designs)
