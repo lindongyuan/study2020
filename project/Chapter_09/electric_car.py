@@ -51,7 +51,9 @@ class ElectricCar(Car):
         super().__init__(make, model, year)
         self.battery = Battery()
 
+'''
 my_teasla = ElectricCar('tesla', 'model s', 2016)
 print(my_teasla.get_descriptive_name())
 my_teasla.battery.describe_battery()
 my_teasla.battery.get_range()
+'''
