@@ -1,0 +1,4 @@
+In Python you can establish dictionary.
+In Python you can establish list.
+In Python you can use while, for and if to do logical judgment.
+In Python you can use function to solve problems.
